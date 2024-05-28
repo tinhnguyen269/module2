@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a17ee96-6cfe-49e5-a087-d9d67635fcba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../session3_MangVaPhuongThuc/untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session3_MangVaPhuongThuc/untitled/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session5_AccessModifierStatic/access-modifier/src/circle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session5_AccessModifierStatic/access-modifier/src/circle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session5_AccessModifierStatic/built-class-in-java/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session5_AccessModifierStatic/built-class-in-java/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session5_AccessModifierStatic/static-property-test/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session5_AccessModifierStatic/static-property-test/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-list/src/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-list/src/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylist/src/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylist/src/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list-queue/src/LinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list-queue/src/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list-queue/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/src/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list/src/MyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist-stack/src/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist-stack/src/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-list/src/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-list/src/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sseion6_Ke_thua/geomatric/src/ComparabCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sseion6_Ke_thua/geomatric/src/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion13_thuat toan/find-binary/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion13_thuat toan/find-binary/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion13_thuat toan/find-string-increase/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/animal-class-interface-ediblle/src/AbstractAndInterfaceTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/animal-class-interface-ediblle/src/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/animal-class-interface-ediblle/src/animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/animal-class-interface-ediblle/src/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/animal-class-interface-ediblle/src/edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/animal-class-interface-ediblle/src/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/animal-class-interface-ediblle/src/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/animal-class-interface-ediblle/src/fruit/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/colorable/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/colorable/src/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/colorable/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/colorable/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/colorable/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/colorable/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/comparable/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/comparable/src/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/comparable/src/CoparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/resizeable/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/resizeable/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/resizeable/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/resizeable/src/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/resizeable/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion7_abstractClass_Interface/resizeable/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion8_CleanCode/mvc-lean/src/controllers/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion8_CleanCode/mvc-lean/src/models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion8_CleanCode/mvc-lean/src/models/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion8_CleanCode/mvc-lean/src/reponsitories/StudentReponsitories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion8_CleanCode/mvc-lean/src/service/IsStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion8_CleanCode/mvc-lean/src/service/impl/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion8_CleanCode/mvc-lean/src/views/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion8_CleanCode/mvc/services/ITeacherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion8_CleanCode/refactoring/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion8_CleanCode/refactoring/src/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion8_CleanCode/refactoring/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion9_TDD/calculator-next-day/src/NextDayCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion9_TDD/calculator-next-day/test/NextDayCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion9_TDD/find-absolute-value/src/AbsoluteNumberCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion9_TDD/find-absolute-value/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion9_TDD/find-absolute-value/test/AbsoluteNumberCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion9_TDD/simple-caculator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion9_TDD/simple-caculator/src/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssesion9_TDD/simple-caculator/src/SimpleCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession11_DSA stack queue/count-word-in-string/src/CountWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession11_DSA stack queue/queue-linked/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession11_DSA stack queue/queue-linkedlist/src/MyLinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession11_DSA stack queue/queue-linkedlist/src/MylinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession11_DSA stack queue/queue-linkedlist/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession11_DSA stack queue/revert-arrayint/src/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession11_DSA stack queue/stack-linkedlist/src/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession11_DSA stack queue/stack-linkedlist/src/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession11_DSA stack queue/stack-linkedlist/src/MyGenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession12_TreeMap/comparable-comparator/src/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession12_TreeMap/comparable-comparator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession12_TreeMap/comparable-comparator/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession12_TreeMap/hashmap-hashset-compare/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession12_TreeMap/hashmap-hashset-compare/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssession12_TreeMap/list-student/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2h1xJzaXZGj10y7rnLmrnqQbEgp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Codegym/Module 2/sseion10_DSA Danh sách/untitled/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a17ee96-6cfe-49e5-a087-d9d67635fcba" name="Changes" comment="" />
+      <created>1716775319531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716775319531</updated>
+      <workItem from="1716775320667" duration="1419000" />
+      <workItem from="1716783802774" duration="8000" />
+      <workItem from="1716796330351" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
